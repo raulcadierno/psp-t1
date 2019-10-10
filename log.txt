@@ -1,0 +1,15 @@
+ El volumen de la unidad E es Datos
+ El n£mero de serie del volumen es: 1DA9-D686
+
+ Directorio de E:\Raul\workspace\T1_Procesos
+
+19/09/2019  09:46    <DIR>          .
+19/09/2019  09:46    <DIR>          ..
+16/09/2019  11:29               301 .classpath
+16/09/2019  11:29               387 .project
+16/09/2019  11:29    <DIR>          .settings
+19/09/2019  09:17    <DIR>          bin
+19/09/2019  09:46                 0 log.txt
+19/09/2019  09:17    <DIR>          src
+               3 archivos            688 bytes
+               5 dirs  313.740.943.360 bytes libres
